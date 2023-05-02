@@ -22,6 +22,9 @@ Pré-requisitos: Java 11
 # clonar repositório
 git clone https://github.com/micaelhads/cadastro-usuario.git
 
+# installar e executar os testes unitarios
+mvn install
+
 # executar o projeto
 mvn spring-boot:run
 ```
